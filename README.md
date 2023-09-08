@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jivan-s, an aspiring web developer.
+- 👀 I’m interested in creating innovative and user-friendly websites.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Django, and SQL to become a proficient web developer.
+- 💞️ I’m looking to collaborate on exciting web development projects that challenge and enhance my skills.
+- 📫 You can reach me through GitHub or via email at [satapathyjjivan@gcekbpatna.ac.in].
