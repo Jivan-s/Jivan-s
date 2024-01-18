@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jivan-s, an aspiring web developer.
+- 👋 Hi, I’m Jivan-s, an aspiring web and ai developer.
 - 👀 I’m interested in creating innovative and user-friendly websites.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, Django, and SQL to become a proficient web developer.
 - 💞️ I’m looking to collaborate on exciting web development projects that challenge and enhance my skills.
